@@ -1,10 +1,10 @@
 package com.auto.amazonmvn.framework.pages.functions.search;
 
-public class SearchCategoryLandingPage {
+public class SearchResultsApplyFilter {
 
 	public void syso() {
 		// TODO Auto-generated method stub
-        System.out.println("search CategoryLanding class ");
+        System.out.println("search filter class ");
 	}
 	
 }
