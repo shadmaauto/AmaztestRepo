@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" guice-stage="DEVELOPMENT" verbose="3" name="Failed suite [amazon]" parallel="tests">
+  <test thread-count="1" verbose="3" name="amazon.FF.myacctlognsec(failed)" parallel="tests">
+    <classes>
+      <class name="com.auto.amazon.framework.testcases.myAccount.LoginnSecurityCases">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="tc_editNameusingpoitodataread"/>
+        </methods>
+      </class> <!-- com.auto.amazon.framework.testcases.myAccount.LoginnSecurityCases -->
+    </classes>
+  </test> <!-- amazon.FF.myacctlognsec(failed) -->
+</suite> <!-- Failed suite [amazon] -->

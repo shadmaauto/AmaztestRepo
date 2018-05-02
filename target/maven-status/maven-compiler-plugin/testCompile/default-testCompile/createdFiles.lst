@@ -1,0 +1,5 @@
+com\auto\amazonmvn\framework\testcases\myAccount\LoginnSecurityCases.class
+com\auto\amazonmvn\framework\testcases\myAccount\CreateAccountCases.class
+com\auto\amazonmvn\framework\testcases\myAccount\MyAccountLinksVerificationCases.class
+com\auto\amazonmvn\framework\testcases\myAccount\YourOrdersCases.class
+com\auto\amazonmvn\framework\testcases\myhomepage\MyHomePageCases.class

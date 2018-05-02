@@ -1,0 +1,20 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+	<suite name="amazon" verbose="3" parallel="tests" thread-count="1">
+<!-- 	 <parameter name="url" value="www.amazon.com"></parameter> -->
+<!-- 			<test name="amazon.FF.myacctlinksver"> -->
+<!-- 		<parameter name="Browser" value="FF"></parameter> -->
+<!-- 			  <classes> -->
+<!-- 					<class name="com.auto.amazonmvn.framework.testcases.myAccount.MyAccountLinksVerificationCases"> -->
+<!-- 					</class> -->
+<!-- 					</classes> -->
+<!-- 					</test> -->
+			<test name="amazon.FF.myacctlognsec">
+		<!-- 		<parameter name="Browser" value="FF"></parameter> -->
+					  <classes>
+					 		<class name="com.auto.amazonmvn.framework.testcases.myAccount.MyAccountLinksVerificationCases"></class>
+							<class name="com.auto.amazonmvn.framework.testcases.myhomepage.MyHomePageCases"></class> 
+							<class name="com.auto.amazonmvn.framework.testcases.myAccount.LoginnSecurityCases"></class>
+						</classes>
+					</test>
+		
+</suite>

@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 144.059 sec <<< FAILURE! - in TestSuite
+tc_editNameusingpoitodataread(com.auto.amazonmvn.framework.testcases.myAccount.LoginnSecurityCases)  Time elapsed: 23.457 sec  <<< FAILURE!
+org.openqa.selenium.NoSuchElementException: 
+Web element reference not seen before: 5804a065-d4a8-4502-a959-041cb288c293
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'TALHA', ip: '192.168.17.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 59.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 5548, moz:profile: C:\Users\MTK\AppData\Local\..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 6.3, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 491aeeae-3e3d-49f3-94a6-c9132e437a02
+	at com.auto.amazonmvn.framework.testcases.myAccount.LoginnSecurityCases.navigationToLoginnSecurityPage(LoginnSecurityCases.java:38)
+	at com.auto.amazonmvn.framework.testcases.myAccount.LoginnSecurityCases.tc_editNameusingpoitodataread(LoginnSecurityCases.java:66)
+

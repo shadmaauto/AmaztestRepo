@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="40164" started-at="2018-04-27T23:10:06Z" finished-at="2018-04-27T23:10:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="40164" started-at="2018-04-27T23:10:06Z" finished-at="2018-04-27T23:10:47Z">
+      <class name="com.auto.amazonmvn.framework.testcases.myhomepage.MyHomePageCases">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.auto.amazonmvn.framework.testcases.myhomepage.MyHomePageCases@77caeb3e]" name="setUp" is-config="true" duration-ms="8" started-at="2018-04-27T23:10:06Z" finished-at="2018-04-27T23:10:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyMyHomePageIcon()[pri:0, instance:com.auto.amazonmvn.framework.testcases.myhomepage.MyHomePageCases@77caeb3e]" name="verifyMyHomePageIcon" duration-ms="17959" started-at="2018-04-27T23:10:06Z" finished-at="2018-04-27T23:10:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMyHomePageIcon -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.auto.amazonmvn.framework.testcases.myhomepage.MyHomePageCases@77caeb3e]" name="closeBrowser" is-config="true" duration-ms="1999" started-at="2018-04-27T23:10:24Z" finished-at="2018-04-27T23:10:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.auto.amazonmvn.framework.testcases.myhomepage.MyHomePageCases@77caeb3e]" name="setUp" is-config="true" duration-ms="0" started-at="2018-04-27T23:10:26Z" finished-at="2018-04-27T23:10:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyMyHomePageTitle()[pri:0, instance:com.auto.amazonmvn.framework.testcases.myhomepage.MyHomePageCases@77caeb3e]" name="verifyMyHomePageTitle" duration-ms="17366" started-at="2018-04-27T23:10:26Z" finished-at="2018-04-27T23:10:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMyHomePageTitle -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.auto.amazonmvn.framework.testcases.myhomepage.MyHomePageCases@77caeb3e]" name="closeBrowser" is-config="true" duration-ms="2794" started-at="2018-04-27T23:10:44Z" finished-at="2018-04-27T23:10:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.auto.amazonmvn.framework.testcases.myhomepage.MyHomePageCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

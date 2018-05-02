@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="com.auto.amazon.framework.testcases.myAccount.LoginnSecurityCases">
+        <methods>
+          <include name="tc_editNameusingpoitodataread"/>
+        </methods>
+      </class> <!-- com.auto.amazon.framework.testcases.myAccount.LoginnSecurityCases -->
+      <class name="com.auto.amazon.framework.testcases.myAccount.MyAccountLinksVerificationCases">
+        <methods>
+          <include name="validatePrimeMembershipLink"/>
+        </methods>
+      </class> <!-- com.auto.amazon.framework.testcases.myAccount.MyAccountLinksVerificationCases -->
+      <class name="com.auto.amazon.framework.testcases.myhomepage.MyHomePageCases">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="verifyMyHomePageTitle"/>
+          <include name="setUp"/>
+          <include name="verifyMyHomePageIcon"/>
+        </methods>
+      </class> <!-- com.auto.amazon.framework.testcases.myhomepage.MyHomePageCases -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="144.059" tests="4" errors="0" skipped="0" failures="1">
+  <properties>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="JOB_NAME" value="amazonTestRun"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="NUMBER_OF_PROCESSORS" value="4"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="JENKINS_HOME" value="C:\Users\MTK\.jenkins"/>
+    <property name="HUDSON_SERVER_COOKIE" value="46efd8296730533e"/>
+    <property name="POM_ARTIFACTID" value="amazonMavenNonPgFacTest"/>
+    <property name="os.name" value="Windows 8.1"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jre1.8.0_131\lib\resources.jar;C:\Program Files\Java\jre1.8.0_131\lib\rt.jar;C:\Program Files\Java\jre1.8.0_131\lib\sunrsasign.jar;C:\Program Files\Java\jre1.8.0_131\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_131\lib\jce.jar;C:\Program Files\Java\jre1.8.0_131\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_131\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_131\classes"/>
+    <property name="EXECUTOR_NUMBER" value="0"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="POM_DISPLAYNAME" value="amazonMavenNonPgFacTest"/>
+    <property name="NODE_LABELS" value="master"/>
+    <property name="TEMP" value="C:\Users\MTK\AppData\Local\Temp"/>
+    <property name="java.runtime.version" value="1.8.0_131-b11"/>
+    <property name="user.name" value="MTK"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="CommonProgramW6432" value="C:\Program Files\Common Files"/>
+    <property name="ProgramFiles" value="C:\Program Files"/>
+    <property name="PROMPT" value="$P$G"/>
+    <property name="user.language" value="en"/>
+    <property name="JOB_BASE_NAME" value="amazonTestRun"/>
+    <property name="RUN_CHANGES_DISPLAY_URL" value="http://unconfigured-jenkins-location/job/amazonTestRun/5/display/redirect?page=changes"/>
+    <property name="BUILD_DISPLAY_NAME" value="#5"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jre1.8.0_131\bin"/>
+    <property name="LOCALAPPDATA" value="C:\Users\MTK\AppData\Local"/>
+    <property name="java.version" value="1.8.0_131"/>
+    <property name="PROCESSOR_LEVEL" value="6"/>
+    <property name="user.timezone" value="America/Los_Angeles"/>
+    <property name="USERNAME" value="MTK"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="NODE_NAME" value="master"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jre1.8.0_131\lib\endorsed"/>
+    <property name="BUILD_ID" value="5"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="HOMEDRIVE" value="C:"/>
+    <property name="maven.conf" value="C:\Users\MTK\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\mavenTestAmazon\conf"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="user.country" value="US"/>
+    <property name="ALLUSERSPROFILE" value="C:\ProgramData"/>
+    <property name="java.home" value="C:\Program Files\Java\jre1.8.0_131"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="os.version" value="6.3"/>
+    <property name="RUN_DISPLAY_URL" value="http://unconfigured-jenkins-location/job/amazonTestRun/5/display/redirect"/>
+    <property name="POM_VERSION" value="0.0.1-SNAPSHOT"/>
+    <property name="TMP" value="C:\Users\MTK\AppData\Local\Temp"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.version" value="25.131-b11"/>
+    <property name="user.variant" value=""/>
+    <property name="JOB_DISPLAY_URL" value="http://unconfigured-jenkins-location/job/amazonTestRun/display/redirect"/>
+    <property name="CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files"/>
+    <property name="USERDOMAIN_ROAMINGPROFILE" value="TALHA"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="FP_NO_HOST_CHECK" value="NO"/>
+    <property name="JAVA_HOME" value="C:\Program Files\Java\jdk1.8.0_131"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="CommonProgramFiles" value="C:\Program Files\Common Files"/>
+    <property name="ComSpec" value="C:\Windows\system32\cmd.exe"/>
+    <property name="HOMEPATH" value="\Users\MTK"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="POM_PACKAGING" value="jar"/>
+    <property name="COMPUTERNAME" value="TALHA"/>
+    <property name="user.script" value=""/>
+    <property name="POM_GROUPID" value="amazonTest"/>
+    <property name="user.home" value="C:\Users\MTK"/>
+    <property name="PUBLIC" value="C:\Users\Public"/>
+    <property name="BUILD_TAG" value="jenkins-amazonTestRun-5"/>
+    <property name="JENKINS_SERVER_COOKIE" value="46efd8296730533e"/>
+    <property name="ProgramData" value="C:\ProgramData"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="USERPROFILE" value="C:\Users\MTK"/>
+    <property name="CLASSPATH" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="java.library.path" value="C:\ProgramData\Oracle\Java\javapath;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\MTK\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\mavenTestAmazon/bin;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_131\bin;C:\Program Files\apache-maven-3.5.0\bin;C:\Users\MTK\Downloads\apache-maven-3.5.0-bin\apache-maven-3.5.0\bin;."/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="APPDATA" value="C:\Users\MTK\AppData\Roaming"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="maven.home" value="C:\Users\MTK\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\mavenTestAmazon"/>
+    <property name="java.class.path" value="C:\Users\MTK\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-agent-1.12-alpha-1.jar;C:\Users\MTK\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\mavenTestAmazon\boot\plexus-classworlds-2.5.2.jar;C:\Users\MTK\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\mavenTestAmazon/conf/logging"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main C:\Users\MTK\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\mavenTestAmazon C:\Users\MTK\.jenkins\war\WEB-INF\lib\remoting-3.20.jar C:\Users\MTK\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.12-alpha-1.jar C:\Users\MTK\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.12-alpha-1.jar 51283"/>
+    <property name="Path" value="C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_131\bin;C:\Program Files\apache-maven-3.5.0\bin;C:\Users\MTK\Downloads\apache-maven-3.5.0-bin\apache-maven-3.5.0\bin"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="PROCESSOR_ARCHITECTURE" value="AMD64"/>
+    <property name="PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 58 Stepping 9, GenuineIntel"/>
+    <property name="SESSIONNAME" value="Console"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="M2_HOME" value="C:\Users\MTK\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\mavenTestAmazon"/>
+    <property name="=D:" value="D:\shadma\jenkins"/>
+    <property name="java.io.tmpdir" value="C:\Users\MTK\AppData\Local\Temp\"/>
+    <property name="OS" value="Windows_NT"/>
+    <property name="HUDSON_HOME" value="C:\Users\MTK\.jenkins"/>
+    <property name="PATH+MAVEN" value="C:\Users\MTK\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\mavenTestAmazon/bin"/>
+    <property name="ProgramFiles(x86)" value="C:\Program Files (x86)"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="SystemRoot" value="C:\Windows"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jre1.8.0_131\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="user.dir" value="D:\shadma\f2\amazonMavenNonPgFacTest"/>
+    <property name="LOGONSERVER" value="\\MicrosoftAccount"/>
+    <property name="USERDOMAIN" value="TALHA"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="MAVEN_HOME" value="C:\Users\MTK\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\mavenTestAmazon"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="BUILD_NUMBER" value="5"/>
+    <property name="PROCESSOR_REVISION" value="3a09"/>
+    <property name="ProgramW6432" value="C:\Program Files"/>
+    <property name="windir" value="C:\Windows"/>
+    <property name="=C:" value="C:\Users\MTK"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="SystemDrive" value="C:"/>
+    <property name="maven3.interceptor" value="C:\Users\MTK\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.12-alpha-1.jar"/>
+    <property name="WORKSPACE" value="C:\Users\MTK\.jenkins\workspace\amazonTestRun"/>
+    <property name="maven3.interceptor.common" value="C:\Users\MTK\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.12-alpha-1.jar"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="PSModulePath" value="C:\Windows\system32\WindowsPowerShell\v1.0\Modules\"/>
+  </properties>
+  <testcase name="validatePrimeMembershipLink" classname="com.auto.amazonmvn.framework.testcases.myAccount.MyAccountLinksVerificationCases" time="46.486"/>
+  <testcase name="verifyMyHomePageIcon" classname="com.auto.amazonmvn.framework.testcases.myhomepage.MyHomePageCases" time="33.944"/>
+  <testcase name="verifyMyHomePageTitle" classname="com.auto.amazonmvn.framework.testcases.myhomepage.MyHomePageCases" time="22.965"/>
+  <testcase name="tc_editNameusingpoitodataread" classname="com.auto.amazonmvn.framework.testcases.myAccount.LoginnSecurityCases" time="23.457">
+    <failure message="Web element reference not seen before: 5804a065-d4a8-4502-a959-041cb288c293&#10;For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: &apos;3.11.0&apos;, revision: &apos;e59cfb3&apos;, time: &apos;2018-03-11T20:26:55.152Z&apos;&#10;System info: host: &apos;TALHA&apos;, ip: &apos;192.168.17.1&apos;, os.name: &apos;Windows 8.1&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.3&apos;, java.version: &apos;1.8.0_131&apos;&#10;Driver info: org.openqa.selenium.firefox.FirefoxDriver&#10;Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 59.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 5548, moz:profile: C:\Users\MTK\AppData\Local\..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 6.3, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}&#10;Session ID: 491aeeae-3e3d-49f3-94a6-c9132e437a02" type="org.openqa.selenium.NoSuchElementException">org.openqa.selenium.NoSuchElementException: 
+Web element reference not seen before: 5804a065-d4a8-4502-a959-041cb288c293
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'TALHA', ip: '192.168.17.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 59.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 5548, moz:profile: C:\Users\MTK\AppData\Local\..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 6.3, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 491aeeae-3e3d-49f3-94a6-c9132e437a02
+	at com.auto.amazonmvn.framework.testcases.myAccount.LoginnSecurityCases.navigationToLoginnSecurityPage(LoginnSecurityCases.java:38)
+	at com.auto.amazonmvn.framework.testcases.myAccount.LoginnSecurityCases.tc_editNameusingpoitodataread(LoginnSecurityCases.java:66)
+</failure>
+    <system-out><![CDATA[no. of matching rows are:1
+Run no.:0
+
+Before Navigating to :https://www.amazon.com/ap/signin?_encoding=UTF8&ignoreAuthState=1&openid.assoc_handle=usflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2F%3Fref_%3Dnav_signin&switch_account='
+Navigated to :https://www.amazon.com/ap/signin?_encoding=UTF8&ignoreAuthState=1&openid.assoc_handle=usflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2F%3Fref_%3Dnav_signin&switch_account='
+Trying to find element By : By.id: ap_email
+Found element By : By.id: ap_email
+found by id using or
+Trying to find element By : By.id: continue
+Found element By : By.id: continue
+found by id using or
+Trying to click on:[[FirefoxDriver: firefox on XP (cc601dc9-6cb8-4218-bcf3-dda52935c8a2)] -> id: continue]
+Clicked on:[[FirefoxDriver: firefox on XP (cc601dc9-6cb8-4218-bcf3-dda52935c8a2)] -> id: continue]
+Trying to find element By : By.name: password
+Found element By : By.name: password
+Trying to find element By : By.id: signInSubmit
+Found element By : By.id: signInSubmit
+found by id using or
+Trying to click on:[[FirefoxDriver: firefox on XP (cc601dc9-6cb8-4218-bcf3-dda52935c8a2)] -> id: signInSubmit]
+Clicked on:[[FirefoxDriver: firefox on XP (cc601dc9-6cb8-4218-bcf3-dda52935c8a2)] -> id: signInSubmit]
+submit clicked
+Trying to find element By : By.xpath: //a[@id='nav-link-accountList']//span[text()='Account & Lists']
+Found element By : By.xpath: //a[@id='nav-link-accountList']//span[text()='Account & Lists']
+Account & Lists
+mousehover done
+Trying to find element By : By.xpath: //div[@id='nav-al-your-account']//a[@class='nav-link nav-item']//span[text()='Your Account']
+Found element By : By.xpath: //div[@id='nav-al-your-account']//a[@class='nav-link nav-item']//span[text()='Your Account']
+
+]]></system-out>
+    <system-err><![CDATA[Unable to read VR Path Registry from C:\Users\MTK\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\MTK\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5728, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5728, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\MTK\AppData\Local\openvr\openvrpaths.vrpath
+1525206267912	geckodriver::marionette	ERROR	Failed to stop browser process
+1525206268443	geckodriver	INFO	geckodriver 0.20.0
+1525206268455	geckodriver	INFO	Listening on 127.0.0.1:40400
+1525206268940	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MTK\\AppData\\Local\\Temp\\rust_mozprofile.ED9tEoDHobvt"
+1525206269746	Marionette	INFO	Enabled via --marionette
+1525206272846	Marionette	INFO	Listening on port 51832
+1525206273072	Marionette	WARN	TLS certificate errors will be ignored for this session
+May 01, 2018 1:24:34 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+  </testcase>
+</testsuite>
